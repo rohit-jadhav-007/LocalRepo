@@ -3,6 +3,6 @@ public class Index {
         System.out.println("Hello, World!");
         System.out.println("This is the Index class in the localRepo in feature branch.");
 
-        System.out.println("hi");
+        System.out.println("hi i am X");
     }
 }
