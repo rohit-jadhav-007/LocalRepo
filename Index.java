@@ -4,5 +4,7 @@ public class Index {
         System.out.println("This is the Index class in the localRepo in feature branch.");
 
         System.out.println("hi i am X");
-    }
+
+        System.out.println("hi i am a R");
+
 }
